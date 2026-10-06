@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.RoomWordSample" parent="Theme.Material3.DayNight" />
+
+    <style name="word_title">
+        <item name="android:layout_marginBottom">@dimen/small_padding</item>
+        <item name="android:paddingLeft">@dimen/big_padding</item>
+        <item name="android:paddingTop">@dimen/big_padding</item>
+        <item name="android:paddingBottom">@dimen/big_padding</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+</resources>
